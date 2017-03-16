@@ -1,0 +1,28 @@
+div#content {
+	width:70%;
+	margin-left:15%;
+	margin-right:15%;
+	height:100%;
+	float:none;
+	clear:none;
+}
+
+body {
+	background:Teal;
+}
+
+header {
+	width:70%;
+	margin-left:15%;
+	margin-right:15%;
+	height:100%;
+	float:none;
+	clear:none;
+}
+
+header > h1 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:xx-large;
+	text-align:center;
+}
